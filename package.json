@@ -4,8 +4,8 @@
   "description": "Landwind is a free and open-source landing page built with Tailwind CSS and Flowbite for SaaS and product websites.",
   "main": "index.js",
   "scripts": {
-    "start": "npm run build && node server.js",
-    "build": "npx tailwindcss -i ./input.css -o ./output.css --watch" 
+    "start": "npm run build ",
+    "build": "npx tailwindcss -i ./input.css -o ./output.css" 
   },
 
 
